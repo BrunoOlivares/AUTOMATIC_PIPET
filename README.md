@@ -5,8 +5,12 @@ The Automatic Pipet was elaborated in the 5° semester of the Mechatronics Engin
 If it is your intention to make it work, the following libraries are to be included:
 
   http://os.mbed.com/users/davidprentice/code/MCUFRIEND_kbv_R299/
+  
   http://os.mbed.com/users/davidprentice/code/ADA_GFX_kbv_R1107/
+  
   http://os.mbed.com/users/davidprentice/code/GLUE_STUFF_kbv/
+  
   http://os.mbed.com/users/stephanie_liu/code/TouchScreen_kbv_mbed/
+  
   http://os.mbed.com/users/zelmic/code/EncoderAli/
 
