@@ -1,0 +1,11 @@
+.clangd
+compile_commands.json
+.mbed
+BUILD
+mbed
+.cache
+ADA_GFX_kbv_R1107
+EncoderAli
+GLUE_STUFF_kbv
+MCUFRIEND_kbv_R299
+TouchScreen_kbv_mbed
